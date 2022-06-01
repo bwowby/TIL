@@ -106,18 +106,12 @@ ENTRYPOINT ["./go-app"]
 
 Experimental 을 true 로 해줘도 엔진이 true로 안 바껴서 빌드 안됨... 왜?!
 
-![Untitled](Untitled%204.png)
 ![Untitled 4](https://user-images.githubusercontent.com/18088806/171382104-4d5080e0-e63d-4366-bba2-c64301192b79.png)
 
-
-
-![Untitled](Untitled%205.png)
 ![Untitled 5](https://user-images.githubusercontent.com/18088806/171382124-fd0260d0-82d9-476d-819d-fe8a51744fde.png)
 
 
 +**Docker** **inspect**
-
-![Untitled](Untitled%206.png)
 ![Untitled 6](https://user-images.githubusercontent.com/18088806/171382178-48d21c44-a015-49c7-941c-e99e7531d078.png)
 
 사용된 레이어 확인 가능
