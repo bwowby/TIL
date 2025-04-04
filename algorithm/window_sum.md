@@ -18,3 +18,6 @@ if __name__ == "__main__" :
 ```
 
 for 두번 거치지 않고 윈도우로 한칸씩 이동하면서 앞뒤로 더하고 빼는 로직!
+
+![image](https://github.com/user-attachments/assets/905a9fb6-a7be-4e38-8a69-fb8c6d526e13)
+
